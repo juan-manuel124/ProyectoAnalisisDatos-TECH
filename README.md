@@ -77,7 +77,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone https://github.com/tu-usuario/proyecto-risaralda.git
+git clone [https://github.com/tu-usuario/proyecto-risaralda.git](https://github.com/juan-manuel124/ProyectoAnalisisDatos-TECH.git)
 cd proyecto-risaralda
 Instala las dependencias:
 
@@ -123,9 +123,20 @@ Consulta el archivo LICENSE para más detalles.
 📬 Contacto
 Para colaboraciones, soporte técnico o uso institucional:
 
-Responsable: [Tu nombre aquí]
+Responsable: [Juan Manuel Betancourt]
+Correo: [manolo310@gmail.com]
 
-Correo: [correo@ejemplo.com]
+Responsable: [Julian Ruiz]
+Correo: [julianruizc@gmail.com]
+
+Responsable: [Monica Roncancio]
+Correo: [monikroncancio@gmail.com]
+
+Responsable: [Andrea]
+Correo: [andeammf87@gmail.com]
+
+Responsable: [Natalia]
+Correo: [datosnatalianalisis@gmail.com]
 
 Organización: [Universidad / ONG / Grupo de investigación]
 
