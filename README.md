@@ -1,5 +1,8 @@
 # ProyectoAnalisisDatos-TECH
 
+[🔊 Descargar Escuchar audio de Proyecto TECH Aplicado a Risaralda]
+(https://github.com/juan-manuel124/ProyectoAnalisisDatos-TECH/raw/fc496041a42c17b3da89b3bf2deb463620ff413e/Men%C3%BA%20de%20navegaci%C3%B3n%20y%20gesti%C3%B3n%20de%20GitHub.wav)
+
 Proyecto de Análisis de Datos para el Desarrollo Energético y Social de Risaralda, Colombia
 📌 Descripción General
 Este proyecto busca aprovechar el poder del análisis de datos, la inteligencia artificial y la visualización para identificar oportunidades de mejora en la planificación energética y el desarrollo socioeconómico del departamento de Risaralda, Colombia.
@@ -123,14 +126,14 @@ Consulta el archivo LICENSE para más detalles.
 📬 Contacto
 Para colaboraciones, soporte técnico o uso institucional:
 
+Lider Proyecto: [Monica Roncancio]
+Correo: [monikroncancio@gmail.com]
+
 Responsable: [Juan Manuel Betancourt]
 Correo: [manolo310@gmail.com]
 
 Responsable: [Julian Ruiz]
 Correo: [julianruizc@gmail.com]
-
-Responsable: [Monica Roncancio]
-Correo: [monikroncancio@gmail.com]
 
 Responsable: [Andrea]
 Correo: [andeammf87@gmail.com]
