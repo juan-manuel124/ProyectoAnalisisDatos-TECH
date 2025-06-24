@@ -138,7 +138,7 @@ Correo: [andeammf87@gmail.com]
 Responsable: [Natalia]
 Correo: [datosnatalianalisis@gmail.com]
 
-Organización: [Universidad / ONG / Grupo de investigación]
+Organización: [Grupo de investigación etapa exploración Talento TECH]
 
 🌱 Impacto Esperado en la Comunidad
 Este proyecto apunta a generar un impacto social directo mediante:
@@ -152,7 +152,8 @@ Información accesible para la ciudadanía.
 Soporte a políticas públicas sostenibles.
 
 🤝 Socios / Aliados del Proyecto (si aplica)
-Universidad Tecnológica de Pereira
+Universidad Libre
+Univesidad Tecnológica de Pereira
 
 Gobernación de Risaralda
 
