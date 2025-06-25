@@ -1,7 +1,16 @@
 # ProyectoAnalisisDatos-TECH
 
+
 [🔊 Descargar Escuchar audio de Proyecto TECH Aplicado a Risaralda]
 (https://github.com/juan-manuel124/ProyectoAnalisisDatos-TECH/raw/fc496041a42c17b3da89b3bf2deb463620ff413e/Men%C3%BA%20de%20navegaci%C3%B3n%20y%20gesti%C3%B3n%20de%20GitHub.wav)
+
+[🔊 Imagen 1: Captura Pantalla Datos Nasa Aplicado a Risaralda]
+<!--  -->
+![Imagen de donde se obtuvo la colexion de datos de la Nasa](https://raw.githubusercontent.com/juan-manuel124/ProyectoAnalisisDatos-TECH/main/Captura%20Pantalla%20Datos%20Nasa.png)
+
+[🔊 Imagen 2: Captura pantalla Datos pagina del Gobierno]
+<!-- Imagen 2: Captura pantalla Datos pagina del Gobierno -->
+![Descripción de la imagen 2](https://raw.githubusercontent.com/juan-manuel124/ProyectoAnalisisDatos-TECH/main/Captura%20pantalla%20Datos%20Go.png)
 
 Proyecto de Análisis de Datos para el Desarrollo Energético y Social de Risaralda, Colombia
 📌 Descripción General
