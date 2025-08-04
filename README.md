@@ -144,9 +144,6 @@ Correo: [manolo310@gmail.com]
 Responsable: [Julian Ruiz]
 Correo: [julianruizc@gmail.com]
 
-Responsable: [Andrea]
-Correo: [andeammf87@gmail.com]
-
 Responsable: [Natalia]
 Correo: [datosnatalianalisis@gmail.com]
 
