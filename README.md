@@ -2,6 +2,7 @@
 
 
 [🔊 Descargar Escuchar audio de Proyecto TECH Aplicado a Risaralda]
+https://juan-manuel124.github.io/ProyectoAnalisisDatos-TECH/
 (https://github.com/juan-manuel124/ProyectoAnalisisDatos-TECH/raw/fc496041a42c17b3da89b3bf2deb463620ff413e/Men%C3%BA%20de%20navegaci%C3%B3n%20y%20gesti%C3%B3n%20de%20GitHub.wav)
 
 [🔊 Imagen 1: Captura Pantalla Datos Nasa Aplicado a Risaralda]
