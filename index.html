@@ -2,13 +2,97 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Reproductor de Audio</title>
+  <title>Reproductor de Audio con IA</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Fuente de Google -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(to right, #f0f4f8, #e0eafc);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      min-height: 100vh;
+      margin: 0;
+      color: #333;
+    }
+
+    .card {
+      background-color: white;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      width: 100%;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.8em;
+      margin-bottom: 10px;
+      color: #1a237e;
+    }
+
+    p {
+      margin-bottom: 20px;
+      font-size: 1em;
+      color: #555;
+    }
+
+    audio {
+      width: 100%;
+      margin-top: 10px;
+      outline: none;
+    }
+
+    .badge {
+      margin-top: 15px;
+      background-color: #e8f0fe;
+      color: #1a73e8;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-block;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 0.85em;
+      color: #777;
+    }
+
+    @media (max-width: 600px) {
+      .card {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 1.4em;
+      }
+    }
+  </style>
 </head>
 <body>
-  <h2>Menú de navegación y gestión de GitHub</h2>
-  <audio controls>
-    <source src="https://github.com/juan-manuel124/ProyectoAnalisisDatos-TECH/raw/fc496041a42c17b3da89b3bf2deb463620ff413e/Men%C3%BA%20de%20navegaci%C3%B3n%20y%20gesti%C3%B3n%20de%20GitHub.wav" type="audio/wav">
-    Tu navegador no soporta audio.
-  </audio>
+  <div class="card">
+    <h1>🎧 Menú de navegación y gestión de GitHub</h1>
+    <p>Audio generado con inteligencia artificial mediante <strong>LM Studio de Google</strong>.</p>
+
+    <audio controls>
+      <source src="https://github.com/juan-manuel124/ProyectoAnalisisDatos-TECH/raw/fc496041a42c17b3da89b3bf2deb463620ff413e/Men%C3%BA%20de%20navegaci%C3%B3n%20y%20gesti%C3%B3n%20de%20GitHub.wav" type="audio/wav">
+      Tu navegador no soporta audio.
+    </audio>
+
+    <div class="badge">🔊 Audio IA</div>
+  </div>
+
+  <div class="footer">
+    Proyecto de análisis de datos · 2025
+  </div>
 </body>
 </html>
+
