@@ -3,7 +3,7 @@
 
 [🔊 Descargar Escuchar audio de Proyecto TECH Aplicado a Risaralda]
 
-👉 [Reproducir audio](https://juan-manuel124.github.io/ProyectoAnalisisDatos-TECH/)
+👉 [Reproducir audio]([https://juan-manuel124.github.io/ProyectoAnalisisDatos-TECH/](https://juan-manuel124.github.io/ProyectoAnalisisDatos-TECH/))
 
 [![Reproductor de Audio](https://img.shields.io/badge/%F0%9F%8E%A7%20Reproducir%20Audio-blue?style=for-the-badge)](https://juan-manuel124.github.io/ProyectoAnalisisDatos-TECH/)
 
